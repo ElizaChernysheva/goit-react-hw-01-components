@@ -1,7 +1,7 @@
 import React from 'react';
 import css from './FriendList.module.css'
 
-import PropTypes, { shape } from 'prop-types';
+import PropTypes from 'prop-types';
 
 export const FriendList = ({ friends }) => {
   return (
